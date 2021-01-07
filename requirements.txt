@@ -20,7 +20,7 @@ itsdangerous==1.1.0
 jedi==0.13.1
 Jinja2==2.10.1
 ljw-game==1.0
-lxml==4.3.0
+lxml==4.6.2
 MarkupSafe==1.1.1
 mccabe==0.6.1
 mysql-connector==2.2.9
